@@ -39,6 +39,11 @@ Task-04-Hand-Gesture-Recognition/
 │   └── LeapGestRecog/
 │
 └── gesture_model.h5     # Trained model
+
+📈Dataset
+Dataset :-  https://www.kaggle.com/gti-upm/leapgestrecog
+
+
 ⚙️ Installation
 
 Clone/download the project and open the project folder in the terminal.
